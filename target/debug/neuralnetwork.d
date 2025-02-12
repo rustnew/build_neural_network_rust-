@@ -1,0 +1,1 @@
+/home/rust/neuralnetwork/target/debug/neuralnetwork: /home/rust/neuralnetwork/src/activations.rs /home/rust/neuralnetwork/src/main.rs /home/rust/neuralnetwork/src/matrix.rs /home/rust/neuralnetwork/src/network.rs
